@@ -4,7 +4,7 @@ What year did Brendan Eich create JavaScript?
 
 ```
 1995
-q
+
 ```
 
 What does "ES6" stand for?
